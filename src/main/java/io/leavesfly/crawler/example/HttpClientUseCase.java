@@ -28,17 +28,11 @@ public class HttpClientUseCase {
 
 	public static void getMethonUseCase() throws HttpException, IOException {
 		HttpClient client = new HttpClient();
-		// ���ô����������ַ�Ͷ˿�
-		// client.getHostConfiguration().setProxy("proxy_host_addr",proxy_port);
-		// ʹ�� GET ���� �������������Ҫͨ�� HTTPS ���ӣ���ֻ��Ҫ������ URL �е� http ���� https
 		HttpMethod method = new GetMethod(
 				"http://hz.meituan.com/?fromsem=1&utm_campaign=baidu&utm_medium=brand&utm_source=baidu&utm_content=1&utm_term=&_rdt=1");
 		client.executeMethod(method);
-		// ��ӡ���������ص�״̬
 		System.out.println(method.getStatusLine());
-		// ��ӡ���ص���Ϣ
 		System.out.println(method.getResponseBodyAsString());
-		// �ͷ�����
 		method.releaseConnection();
 	}
 

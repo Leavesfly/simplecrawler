@@ -2,7 +2,7 @@ package io.leavesfly.crawler.constant;
 
 public class FetcherConstant {
 	public static final String CHARSET = "UTF-8";
-	public static final String PAGE_STORE_ROOT_DIR = "D:/CrawlerRootDir/";
+	public static final String PAGE_STORE_ROOT_DIR = "XXX";
 	public static final int RETRY_TIMES = 3;
 
 	public static final int HTTP_CONN_TIMEOUT = 5000;

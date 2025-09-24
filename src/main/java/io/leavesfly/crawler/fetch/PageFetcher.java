@@ -35,7 +35,6 @@ public class PageFetcher extends Fetcher {
 		try {
 			int statusCode = httpClient.executeMethod(method);
 			while (statusCode != HttpStatus.SC_OK) {
-				// �������������ֹ���ʣ����������Ĵ�������
 				if (statusCode == HttpStatus.SC_FORBIDDEN) {
 					ProxyItem proxyItem = ProxyUtil.nextProxyItem();
 					setProxy(proxyItem);
@@ -70,7 +69,6 @@ public class PageFetcher extends Fetcher {
 		return new RawPage(targetURL, contentCharSet, content);
 	}
 
-	// TODO �Ѵ����첽��
 	@Override
 	public int storePage(RawPage rawPage) {
 		RawPageStore rawPageStore = RawPageStoreFactory

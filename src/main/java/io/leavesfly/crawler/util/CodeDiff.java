@@ -113,13 +113,13 @@ public class CodeDiff {
 
 
     public static void main(String[] args) {
-        String dicPathFrom = "/Users/yefei.yf/IdeaWorkspace/branch/judata";
-        String dicPathTo = "/Users/yefei.yf/IdeaWorkspace/judata";
+        String dicPathFrom = "XXX";
+        String dicPathTo = "XXX";
 
         CodeDiff codeDiff = new CodeDiff(dicPathFrom, dicPathTo);
         Set<String> delCodeFileNameSet = codeDiff.getHadDelCodeFileNames();
 
-        System.out.println("-------------" + delCodeFileNameSet.size() + "�����ļ���ɾ��----------");
+        System.out.println("-------------" + delCodeFileNameSet.size() + "----------");
 
         int i = 0;
         for (String delCodeName : delCodeFileNameSet) {
@@ -133,7 +133,7 @@ public class CodeDiff {
 
         Set<String> newAddFileNameSet = codeDiff.getNewAddCodeFileNames();
 
-        System.out.println("-------------" + newAddFileNameSet.size() + "�����ļ�����----------");
+        System.out.println("-------------" + newAddFileNameSet.size() + "----------");
 
         i = 0;
         for (String newAdd : newAddFileNameSet)
