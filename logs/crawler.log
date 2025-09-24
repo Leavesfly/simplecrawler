@@ -1,0 +1,178 @@
+2025-09-24 19:23:35.475 [main] DEBUG i.l.c.core.event.CrawlEventPublisher - 添加事件监听器: LoggingEventListener
+2025-09-24 19:23:35.476 [main] DEBUG i.l.c.core.event.CrawlEventPublisher - 添加事件监听器: StatisticsEventListener
+2025-09-24 19:23:35.478 [main] INFO  i.l.c.strategy.CrawlStrategyManager - 注册爬取策略: MeiTuanCrawlStrategy, 优先级: 10
+2025-09-24 19:23:35.514 [main] DEBUG i.l.c.core.event.CrawlEventPublisher - 添加事件监听器: LoggingEventListener
+2025-09-24 19:23:35.514 [main] DEBUG i.l.c.core.event.CrawlEventPublisher - 添加事件监听器: StatisticsEventListener
+2025-09-24 19:23:35.514 [main] INFO  i.l.c.strategy.CrawlStrategyManager - 注册爬取策略: MeiTuanCrawlStrategy, 优先级: 10
+2025-09-24 19:23:35.516 [main] DEBUG i.l.c.core.event.CrawlEventPublisher - 添加事件监听器: LoggingEventListener
+2025-09-24 19:23:35.516 [main] DEBUG i.l.c.core.event.CrawlEventPublisher - 添加事件监听器: StatisticsEventListener
+2025-09-24 19:23:35.516 [main] INFO  i.l.c.strategy.CrawlStrategyManager - 注册爬取策略: MeiTuanCrawlStrategy, 优先级: 10
+2025-09-24 19:23:35.518 [main] DEBUG i.l.c.core.event.CrawlEventPublisher - 添加事件监听器: LoggingEventListener
+2025-09-24 19:23:35.518 [main] DEBUG i.l.c.core.event.CrawlEventPublisher - 添加事件监听器: StatisticsEventListener
+2025-09-24 19:23:35.518 [main] INFO  i.l.c.strategy.CrawlStrategyManager - 注册爬取策略: MeiTuanCrawlStrategy, 优先级: 10
+2025-09-24 19:23:35.519 [main] DEBUG i.l.c.core.event.CrawlEventPublisher - 添加事件监听器: LoggingEventListener
+2025-09-24 19:23:35.519 [main] DEBUG i.l.c.core.event.CrawlEventPublisher - 添加事件监听器: StatisticsEventListener
+2025-09-24 19:23:35.519 [main] INFO  i.l.c.strategy.CrawlStrategyManager - 注册爬取策略: MeiTuanCrawlStrategy, 优先级: 10
+2025-09-24 19:23:35.520 [main] DEBUG i.l.c.core.event.CrawlEventPublisher - 添加事件监听器: LoggingEventListener
+2025-09-24 19:23:35.520 [main] DEBUG i.l.c.core.event.CrawlEventPublisher - 添加事件监听器: StatisticsEventListener
+2025-09-24 19:23:35.520 [main] INFO  i.l.c.strategy.CrawlStrategyManager - 注册爬取策略: MeiTuanCrawlStrategy, 优先级: 10
+2025-09-24 19:23:35.522 [main] DEBUG i.l.c.core.event.CrawlEventPublisher - 添加事件监听器: LoggingEventListener
+2025-09-24 19:23:35.522 [main] DEBUG i.l.c.core.event.CrawlEventPublisher - 添加事件监听器: StatisticsEventListener
+2025-09-24 19:23:35.522 [main] INFO  i.l.c.strategy.CrawlStrategyManager - 注册爬取策略: MeiTuanCrawlStrategy, 优先级: 10
+2025-09-24 19:23:35.547 [main] DEBUG i.l.c.core.event.CrawlEventPublisher - 添加事件监听器: TestEventListener
+2025-09-24 19:23:35.550 [main] DEBUG i.l.c.core.event.CrawlEventPublisher - 添加事件监听器: TestEventListener
+2025-09-24 19:23:35.551 [main] DEBUG i.l.c.core.event.CrawlEventPublisher - 移除事件监听器: TestEventListener
+2025-09-24 19:23:35.554 [main] DEBUG i.l.c.core.event.CrawlEventPublisher - 添加事件监听器: 
+2025-09-24 19:23:35.555 [main] DEBUG i.l.c.core.event.CrawlEventPublisher - 发布事件: CrawlEvent{type=CRAWLER_STARTED, timestamp=2025-09-24T19:23:35.555267, url='null', dataSize=0, hasException=false}
+2025-09-24 19:23:35.556 [main] DEBUG i.l.c.core.event.CrawlEventPublisher - 事件发布器已关闭
+2025-09-24 19:23:35.557 [main] DEBUG i.l.c.core.event.CrawlEventPublisher - 添加事件监听器: TestEventListener
+2025-09-24 19:23:35.558 [main] DEBUG i.l.c.core.event.CrawlEventPublisher - 发布事件: CrawlEvent{type=CRAWLER_STARTED, timestamp=2025-09-24T19:23:35.557990, url='https://example.com', dataSize=1, hasException=false}
+2025-09-24 19:23:35.558 [main] DEBUG i.l.c.core.event.CrawlEventPublisher - 添加事件监听器: TestEventListener
+2025-09-24 19:23:35.558 [main] DEBUG i.l.c.core.event.CrawlEventPublisher - 添加事件监听器: LoggingEventListener
+2025-09-24 19:23:35.558 [main] DEBUG i.l.c.core.event.CrawlEventPublisher - 清空所有事件监听器
+2025-09-24 19:23:35.560 [main] DEBUG i.l.c.core.event.CrawlEventPublisher - 事件发布器已关闭
+2025-09-24 19:23:35.563 [main] DEBUG i.l.c.core.event.CrawlEventPublisher - 添加事件监听器: 
+2025-09-24 19:23:35.563 [main] DEBUG i.l.c.core.event.CrawlEventPublisher - 添加事件监听器: TestEventListener
+2025-09-24 19:23:35.563 [main] DEBUG i.l.c.core.event.CrawlEventPublisher - 发布事件: CrawlEvent{type=CRAWLER_STARTED, timestamp=2025-09-24T19:23:35.563361, url='null', dataSize=0, hasException=false}
+2025-09-24 19:23:35.563 [main] ERROR i.l.c.core.event.CrawlEventPublisher - 事件监听器  处理事件时发生异常: CrawlEvent{type=CRAWLER_STARTED, timestamp=2025-09-24T19:23:35.563361, url='null', dataSize=0, hasException=false}
+java.lang.RuntimeException: Test exception
+	at io.leavesfly.crawler.core.event.CrawlEventPublisherTest$3.onEvent(CrawlEventPublisherTest.java:146)
+	at io.leavesfly.crawler.core.event.CrawlEventPublisher.notifyListener(CrawlEventPublisher.java:100)
+	at io.leavesfly.crawler.core.event.CrawlEventPublisher.publishEvent(CrawlEventPublisher.java:86)
+	at io.leavesfly.crawler.core.event.CrawlEventPublisherTest.lambda$testListenerExceptionHandling$0(CrawlEventPublisherTest.java:156)
+	at org.junit.jupiter.api.AssertDoesNotThrow.assertDoesNotThrow(AssertDoesNotThrow.java:49)
+	at org.junit.jupiter.api.AssertDoesNotThrow.assertDoesNotThrow(AssertDoesNotThrow.java:36)
+	at org.junit.jupiter.api.Assertions.assertDoesNotThrow(Assertions.java:3164)
+	at io.leavesfly.crawler.core.event.CrawlEventPublisherTest.testListenerExceptionHandling(CrawlEventPublisherTest.java:156)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:728)
+	at org.junit.jupiter.engine.execution.MethodInvocation.proceed(MethodInvocation.java:60)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$ValidatingInvocation.proceed(InvocationInterceptorChain.java:131)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.intercept(TimeoutExtension.java:156)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestableMethod(TimeoutExtension.java:147)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestMethod(TimeoutExtension.java:86)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker$ReflectiveInterceptorCall.lambda$ofVoidMethod$0(InterceptingExecutableInvoker.java:103)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.lambda$invoke$0(InterceptingExecutableInvoker.java:93)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$InterceptedInvocation.proceed(InvocationInterceptorChain.java:106)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.proceed(InvocationInterceptorChain.java:64)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.chainAndInvoke(InvocationInterceptorChain.java:45)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.invoke(InvocationInterceptorChain.java:37)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:92)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:86)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$7(TestMethodTestDescriptor.java:218)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:214)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:139)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:69)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:151)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:198)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:169)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:93)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:58)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:141)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:57)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:103)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:85)
+	at org.junit.platform.launcher.core.DelegatingLauncher.execute(DelegatingLauncher.java:47)
+	at org.apache.maven.surefire.junitplatform.LazyLauncher.execute(LazyLauncher.java:56)
+	at org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.execute(JUnitPlatformProvider.java:184)
+	at org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.invokeAllTests(JUnitPlatformProvider.java:148)
+	at org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.invoke(JUnitPlatformProvider.java:122)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+2025-09-24 19:23:35.569 [main] DEBUG i.l.c.core.event.CrawlEventPublisher - 添加事件监听器: 
+2025-09-24 19:23:35.569 [main] DEBUG i.l.c.core.event.CrawlEventPublisher - 添加事件监听器: TestEventListener
+2025-09-24 19:23:35.569 [main] DEBUG i.l.c.core.event.CrawlEventPublisher - 发布事件: CrawlEvent{type=CRAWLER_STARTED, timestamp=2025-09-24T19:23:35.569406, url='null', dataSize=0, hasException=false}
+2025-09-24 19:23:35.569 [main] DEBUG i.l.c.core.event.CrawlEventPublisher - 发布事件: CrawlEvent{type=PAGE_FETCH_SUCCESS, timestamp=2025-09-24T19:23:35.569503, url='null', dataSize=0, hasException=false}
+2025-09-24 19:23:35.667 [main] INFO  i.l.c.strategy.CrawlStrategyManager - 注册爬取策略: TestStrategy, 优先级: 100
+2025-09-24 19:23:35.667 [main] INFO  i.l.c.strategy.CrawlStrategyManager - 移除爬取策略: TestStrategy
+2025-09-24 19:23:35.668 [main] INFO  i.l.c.strategy.CrawlStrategyManager - 注册爬取策略: TestStrategy, 优先级: 100
+2025-09-24 19:23:35.668 [main] INFO  i.l.c.strategy.CrawlStrategyManager - 注册爬取策略: MeiTuanCrawlStrategy, 优先级: 10
+2025-09-24 19:23:35.668 [main] INFO  i.l.c.strategy.CrawlStrategyManager - 清空所有爬取策略
+2025-09-24 19:23:35.669 [main] INFO  i.l.c.strategy.CrawlStrategyManager - 注册爬取策略: LowPriority, 优先级: 10
+2025-09-24 19:23:35.669 [main] INFO  i.l.c.strategy.CrawlStrategyManager - 注册爬取策略: HighPriority, 优先级: 5
+2025-09-24 19:23:35.669 [main] INFO  i.l.c.strategy.CrawlStrategyManager - 注册爬取策略: TestStrategy, 优先级: 100
+2025-09-24 19:23:35.670 [main] DEBUG i.l.c.strategy.CrawlStrategyManager - 为URL https://test.com/page 选择策略: TestStrategy
+2025-09-24 19:23:35.670 [main] WARN  i.l.c.strategy.CrawlStrategyManager - 未找到匹配的爬取策略: https://other.com/page
+2025-09-24 19:23:35.671 [main] INFO  i.l.c.strategy.CrawlStrategyManager - 注册爬取策略: TestStrategy, 优先级: 100
+2025-09-24 19:23:35.671 [main] INFO  i.l.c.strategy.CrawlStrategyManager - 注册爬取策略: MeiTuanCrawlStrategy, 优先级: 10
+2025-09-24 19:23:45.588 [io.leavesfly.crawler.Crawler.main()] INFO  io.leavesfly.crawler.Crawler - 正在初始化爬虫系统...
+2025-09-24 19:23:45.592 [io.leavesfly.crawler.Crawler.main()] DEBUG i.l.c.core.event.CrawlEventPublisher - 添加事件监听器: LoggingEventListener
+2025-09-24 19:23:45.593 [io.leavesfly.crawler.Crawler.main()] DEBUG i.l.c.core.event.CrawlEventPublisher - 添加事件监听器: StatisticsEventListener
+2025-09-24 19:23:45.595 [io.leavesfly.crawler.Crawler.main()] INFO  i.l.c.strategy.CrawlStrategyManager - 注册爬取策略: MeiTuanCrawlStrategy, 优先级: 10
+2025-09-24 19:25:10.395 [io.leavesfly.crawler.Crawler.main()] INFO  io.leavesfly.crawler.Crawler - 正在初始化爬虫系统...
+2025-09-24 19:25:10.400 [io.leavesfly.crawler.Crawler.main()] DEBUG i.l.c.core.event.CrawlEventPublisher - 添加事件监听器: LoggingEventListener
+2025-09-24 19:25:10.401 [io.leavesfly.crawler.Crawler.main()] DEBUG i.l.c.core.event.CrawlEventPublisher - 添加事件监听器: StatisticsEventListener
+2025-09-24 19:25:10.402 [io.leavesfly.crawler.Crawler.main()] INFO  i.l.c.strategy.CrawlStrategyManager - 注册爬取策略: MeiTuanCrawlStrategy, 优先级: 10
+2025-09-24 19:25:10.418 [io.leavesfly.crawler.Crawler.main()] WARN  i.l.crawler.fetch.proxy.ProxyUtil - 代理文件不存在: XXXproxy.txt
+2025-09-24 19:25:10.418 [io.leavesfly.crawler.Crawler.main()] DEBUG i.l.crawler.fetch.proxy.ProxyUtil - 没有可用的代理
+2025-09-24 19:25:10.419 [io.leavesfly.crawler.Crawler.main()] INFO  io.leavesfly.crawler.fetch.Fetcher - 未配置代理，使用直连
+2025-09-24 19:25:10.419 [io.leavesfly.crawler.Crawler.main()] DEBUG i.l.crawler.core.ModernCrawlerEngine - 处理流水线构建完成
+2025-09-24 19:25:10.419 [io.leavesfly.crawler.Crawler.main()] INFO  i.l.crawler.core.ModernCrawlerEngine - 爬虫引擎初始化完成 - 配置: CrawlerConfig{connectionTimeout=30000, socketTimeout=60000, maxConnections=50, maxRetries=3, userAgent='SimpleCrawler/1.0 (Modern Web Crawler)', fetcherType='http', threadPoolSize=5}
+2025-09-24 19:25:10.423 [io.leavesfly.crawler.Crawler.main()] INFO  i.l.crawler.core.ModernCrawlerEngine - 启动爬虫引擎...
+2025-09-24 19:25:10.426 [io.leavesfly.crawler.Crawler.main()] DEBUG i.l.c.core.event.CrawlEventPublisher - 发布事件: CrawlEvent{type=CRAWLER_STARTED, timestamp=2025-09-24T19:25:10.426542, url='null', dataSize=1, hasException=false}
+2025-09-24 19:25:10.427 [CrawlEventPublisher-1758713110427] INFO  i.l.c.c.e.l.LoggingEventListener - 爬虫启动
+2025-09-24 19:25:10.427 [io.leavesfly.crawler.Crawler.main()] DEBUG i.l.c.core.event.CrawlEventPublisher - 发布事件: CrawlEvent{type=URL_QUEUED, timestamp=2025-09-24T19:25:10.427619, url='https://www.meituan.com/', dataSize=0, hasException=false}
+2025-09-24 19:25:10.427 [io.leavesfly.crawler.Crawler.main()] DEBUG i.l.crawler.core.ModernCrawlerEngine - URL已入队: https://www.meituan.com/
+2025-09-24 19:25:10.427 [CrawlEventPublisher-1758713110427] DEBUG i.l.c.c.e.l.LoggingEventListener - URL已入队: https://www.meituan.com/
+2025-09-24 19:25:10.427 [io.leavesfly.crawler.Crawler.main()] DEBUG i.l.c.core.event.CrawlEventPublisher - 发布事件: CrawlEvent{type=URL_QUEUED, timestamp=2025-09-24T19:25:10.427968, url='https://bj.meituan.com/', dataSize=0, hasException=false}
+2025-09-24 19:25:10.428 [io.leavesfly.crawler.Crawler.main()] DEBUG i.l.crawler.core.ModernCrawlerEngine - URL已入队: https://bj.meituan.com/
+2025-09-24 19:25:10.428 [CrawlEventPublisher-1758713110427] DEBUG i.l.c.c.e.l.LoggingEventListener - URL已入队: https://bj.meituan.com/
+2025-09-24 19:25:10.428 [io.leavesfly.crawler.Crawler.main()] INFO  i.l.crawler.core.ModernCrawlerEngine - 爬虫引擎启动完成，工作线程数: 5
+2025-09-24 19:25:10.429 [CrawlerWorker-22] DEBUG i.l.crawler.core.ModernCrawlerEngine - 开始处理URL: https://bj.meituan.com/
+2025-09-24 19:25:10.429 [CrawlerWorker-21] DEBUG i.l.crawler.core.ModernCrawlerEngine - 开始处理URL: https://www.meituan.com/
+2025-09-24 19:25:10.429 [CrawlerWorker-22] DEBUG i.l.c.core.event.CrawlEventPublisher - 发布事件: CrawlEvent{type=PAGE_FETCH_STARTED, timestamp=2025-09-24T19:25:10.429358, url='https://bj.meituan.com/', dataSize=0, hasException=false}
+2025-09-24 19:25:10.429 [CrawlerWorker-21] DEBUG i.l.c.core.event.CrawlEventPublisher - 发布事件: CrawlEvent{type=PAGE_FETCH_STARTED, timestamp=2025-09-24T19:25:10.429364, url='https://www.meituan.com/', dataSize=0, hasException=false}
+2025-09-24 19:25:10.429 [CrawlerWorker-21] DEBUG i.l.c.c.pipeline.impl.FetchProcessor - 开始下载页面: https://www.meituan.com/
+2025-09-24 19:25:10.429 [CrawlEventPublisher-1758713110427] DEBUG i.l.c.c.e.l.LoggingEventListener - 收到事件: CrawlEvent{type=PAGE_FETCH_STARTED, timestamp=2025-09-24T19:25:10.429358, url='https://bj.meituan.com/', dataSize=0, hasException=false}
+2025-09-24 19:25:10.429 [CrawlEventPublisher-1758713110427] DEBUG i.l.c.c.e.l.LoggingEventListener - 收到事件: CrawlEvent{type=PAGE_FETCH_STARTED, timestamp=2025-09-24T19:25:10.429364, url='https://www.meituan.com/', dataSize=0, hasException=false}
+2025-09-24 19:25:10.429 [CrawlerWorker-22] DEBUG i.l.c.c.pipeline.impl.FetchProcessor - 开始下载页面: https://bj.meituan.com/
+2025-09-24 19:25:10.869 [CrawlerWorker-21] ERROR io.leavesfly.crawler.fetch.Fetcher - URL: https://www.meituan.com/ -> 存储失败!
+2025-09-24 19:25:10.869 [CrawlerWorker-21] DEBUG i.l.c.c.pipeline.impl.FetchProcessor - 页面下载成功: https://www.meituan.com/, 内容长度: 116876
+2025-09-24 19:25:10.870 [CrawlerWorker-21] DEBUG i.l.c.c.pipeline.impl.ParseProcessor - 开始解析页面: https://www.meituan.com/
+2025-09-24 19:25:10.870 [CrawlerWorker-21] DEBUG i.l.c.c.pipeline.impl.ParseProcessor - 页面解析完成: https://www.meituan.com/
+2025-09-24 19:25:10.870 [CrawlerWorker-21] DEBUG i.l.c.core.event.CrawlEventPublisher - 发布事件: CrawlEvent{type=PAGE_FETCH_SUCCESS, timestamp=2025-09-24T19:25:10.870559, url='https://www.meituan.com/', dataSize=1, hasException=false}
+2025-09-24 19:25:10.870 [CrawlerWorker-21] DEBUG i.l.crawler.core.ModernCrawlerEngine - URL处理完成: https://www.meituan.com/, 耗时: 441ms
+2025-09-24 19:25:10.870 [CrawlEventPublisher-1758713110427] INFO  i.l.c.c.e.l.LoggingEventListener - 页面获取成功: https://www.meituan.com/
+2025-09-24 19:25:11.111 [CrawlerWorker-22] ERROR io.leavesfly.crawler.fetch.Fetcher - URL: https://bj.meituan.com/ -> 存储失败!
+2025-09-24 19:25:11.111 [CrawlerWorker-22] DEBUG i.l.c.c.pipeline.impl.FetchProcessor - 页面下载成功: https://bj.meituan.com/, 内容长度: 116876
+2025-09-24 19:25:11.111 [CrawlerWorker-22] DEBUG i.l.c.c.pipeline.impl.ParseProcessor - 开始解析页面: https://bj.meituan.com/
+2025-09-24 19:25:11.111 [CrawlerWorker-22] DEBUG i.l.c.c.pipeline.impl.ParseProcessor - 页面解析完成: https://bj.meituan.com/
+2025-09-24 19:25:11.111 [CrawlerWorker-22] DEBUG i.l.c.core.event.CrawlEventPublisher - 发布事件: CrawlEvent{type=PAGE_FETCH_SUCCESS, timestamp=2025-09-24T19:25:11.111765, url='https://bj.meituan.com/', dataSize=1, hasException=false}
+2025-09-24 19:25:11.111 [CrawlerWorker-22] DEBUG i.l.crawler.core.ModernCrawlerEngine - URL处理完成: https://bj.meituan.com/, 耗时: 682ms
+2025-09-24 19:25:11.111 [CrawlEventPublisher-1758713110427] INFO  i.l.c.c.e.l.LoggingEventListener - 页面获取成功: https://bj.meituan.com/
