@@ -6,9 +6,7 @@ package io.leavesfly.crawler.fetch;
  * 
  */
 public class FetcherException extends Exception {
-	/**
-	 * 
-	 */
+
 	private static final long serialVersionUID = 1L;
 
 	public FetcherException(String message, Throwable t) {

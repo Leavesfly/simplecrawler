@@ -26,10 +26,7 @@ public class ProxyUtil {
 
 	static {
 		try {
-			BufferedReader bufferReader = new BufferedReader(new InputStreamReader(
-					new FileInputStream(proxyFilePath)));
-			// TODO ��ȡ�����ļ��ɶ���
-
+			BufferedReader bufferReader = new BufferedReader(new InputStreamReader(new FileInputStream(proxyFilePath)));
 		} catch (FileNotFoundException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
@@ -37,10 +34,7 @@ public class ProxyUtil {
 	}
 
 	public static boolean isValidProxyItem(ProxyItem proxyItem) {
-		// ���ô����������ip��ַ�Ͷ˿�
-		httpClient.getHostConfiguration()
-				.setProxy(proxyItem.getProxyIP(), proxyItem.getProxyPort());
-		// ʹ��������֤
+		httpClient.getHostConfiguration().setProxy(proxyItem.getProxyIP(), proxyItem.getProxyPort());
 		httpClient.getParams().setAuthenticationPreemptive(true);
 
 		try {
@@ -62,6 +56,5 @@ public class ProxyUtil {
 		++currentPosition;
 
 		return proxyItem;
-
 	}
 }
